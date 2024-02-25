@@ -1,0 +1,9 @@
+[submodule "lib/libspng"]
+	path = lib/libspng
+	url = https://github.com/randy408/libspng/
+[submodule "lib/miniz"]
+	path = lib/miniz
+	url = https://github.com/richgel999/miniz
+[submodule "lib/pimoroni-pico"]
+	path = lib/pimoroni-pico
+	url = https://github.com/pimoroni/pimoroni-pico
