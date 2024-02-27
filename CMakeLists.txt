@@ -14,6 +14,7 @@ set(PICO_CXX_ENABLE_EXCEPTIONS 1)
 # Initialize the SDK
 pico_sdk_init()
 
+include(cosmic_unicorn.cmake)
 include(spng_import.cmake)
 
 add_subdirectory(src)
